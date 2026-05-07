@@ -97591,7 +97591,7 @@
   "categoria": "MUSIC (Original Musical or Comedy Score)",
   "nome_do_indicado": "Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken",
   "nome_do_filme": "Pocahontas",
-  "ven cedor": 1
+  "vencedor": true
 },
 {
   "_id": {
@@ -141571,7 +141571,7 @@
   "categoria": "ACTOR IN A LEADING ROLE",
   "nome_do_indicado": "Adrien Brody",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141584,7 +141584,7 @@
   "categoria": "ACTOR IN A LEADING ROLE",
   "nome_do_indicado": "Timothée Chalamet",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141597,7 +141597,7 @@
   "categoria": "ACTOR IN A LEADING ROLE",
   "nome_do_indicado": "Colman Domingo",
   "nome_do_filme": "Sing Sing",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141610,7 +141610,7 @@
   "categoria": "ACTOR IN A LEADING ROLE",
   "nome_do_indicado": "Ralph Fiennes",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141623,7 +141623,7 @@
   "categoria": "ACTOR IN A LEADING ROLE",
   "nome_do_indicado": "Sebastian Stan",
   "nome_do_filme": "The Apprentice",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141636,7 +141636,7 @@
   "categoria": "ACTOR IN A SUPPORTING ROLE",
   "nome_do_indicado": "Kieran Culkin",
   "nome_do_filme": "A Real Pain",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141649,7 +141649,7 @@
   "categoria": "ACTOR IN A SUPPORTING ROLE",
   "nome_do_indicado": "Yura Borisov",
   "nome_do_filme": "Anora",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141662,7 +141662,7 @@
   "categoria": "ACTOR IN A SUPPORTING ROLE",
   "nome_do_indicado": "Edward Norton",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141675,7 +141675,7 @@
   "categoria": "ACTOR IN A SUPPORTING ROLE",
   "nome_do_indicado": "Guy Pearce",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141688,7 +141688,7 @@
   "categoria": "ACTOR IN A SUPPORTING ROLE",
   "nome_do_indicado": "Jeremy Strong",
   "nome_do_filme": "The Apprentice",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141701,7 +141701,7 @@
   "categoria": "ACTRESS IN A LEADING ROLE",
   "nome_do_indicado": "Mikey Madison",
   "nome_do_filme": "Anora",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141714,7 +141714,7 @@
   "categoria": "ACTRESS IN A LEADING ROLE",
   "nome_do_indicado": "Cynthia Erivo",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141727,7 +141727,7 @@
   "categoria": "ACTRESS IN A LEADING ROLE",
   "nome_do_indicado": "Karla Sofía Gascón",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141740,7 +141740,7 @@
   "categoria": "ACTRESS IN A LEADING ROLE",
   "nome_do_indicado": "Demi Moore",
   "nome_do_filme": "The Substance",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141753,7 +141753,7 @@
   "categoria": "ACTRESS IN A LEADING ROLE",
   "nome_do_indicado": "Fernanda Torres",
   "nome_do_filme": "I'm Still Here",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141766,7 +141766,7 @@
   "categoria": "ACTRESS IN A SUPPORTING ROLE",
   "nome_do_indicado": "Zoe Saldaña",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141779,7 +141779,7 @@
   "categoria": "ACTRESS IN A SUPPORTING ROLE",
   "nome_do_indicado": "Monica Barbaro",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141792,7 +141792,7 @@
   "categoria": "ACTRESS IN A SUPPORTING ROLE",
   "nome_do_indicado": "Ariana Grande",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141805,7 +141805,7 @@
   "categoria": "ACTRESS IN A SUPPORTING ROLE",
   "nome_do_indicado": "Felicity Jones",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141818,7 +141818,7 @@
   "categoria": "ACTRESS IN A SUPPORTING ROLE",
   "nome_do_indicado": "Isabella Rossellini",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141831,7 +141831,7 @@
   "categoria": "ANIMATED FEATURE FILM",
   "nome_do_indicado": "Gints Zilbalodis, Matīss Kaža, Ron Dyens and Gregory Zalcman",
   "nome_do_filme": "Flow",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141844,7 +141844,7 @@
   "categoria": "ANIMATED FEATURE FILM",
   "nome_do_indicado": "Kelsey Mann and Mark Nielsen",
   "nome_do_filme": "Inside Out 2",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141857,7 +141857,7 @@
   "categoria": "ANIMATED FEATURE FILM",
   "nome_do_indicado": "Adam Elliot and Liz Kearney",
   "nome_do_filme": "Memoir of a Snail",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141870,7 +141870,7 @@
   "categoria": "ANIMATED FEATURE FILM",
   "nome_do_indicado": "Nick Park, Merlin Crossingham and Richard Beek",
   "nome_do_filme": "Wallace & Gromit: Vengeance Most Fowl",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141883,7 +141883,7 @@
   "categoria": "ANIMATED FEATURE FILM",
   "nome_do_indicado": "Chris Sanders and Jeff Hermann",
   "nome_do_filme": "The Wild Robot",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141896,7 +141896,7 @@
   "categoria": "ANIMATED SHORT FILM",
   "nome_do_indicado": "Shirin Sohani and Hossein Molayemi",
   "nome_do_filme": "In the Shadow of the Cypress",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141909,7 +141909,7 @@
   "categoria": "ANIMATED SHORT FILM",
   "nome_do_indicado": "Nicolas Keppens and Brecht Van Elslande",
   "nome_do_filme": "Beautiful Men",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141922,7 +141922,7 @@
   "categoria": "ANIMATED SHORT FILM",
   "nome_do_indicado": "Daisuke Nishio and Takashi Washio",
   "nome_do_filme": "Magic Candies",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141935,7 +141935,7 @@
   "categoria": "ANIMATED SHORT FILM",
   "nome_do_indicado": "Nina Gantz and Stienette Bosklopper",
   "nome_do_filme": "Wander to Wonder",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141948,7 +141948,7 @@
   "categoria": "ANIMATED SHORT FILM",
   "nome_do_indicado": "Loïc Espuche and Juliette Marquet",
   "nome_do_filme": "Yuck!",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141961,7 +141961,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Lol Crawley",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -141974,7 +141974,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Greig Fraser",
   "nome_do_filme": "Dune: Part Two",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -141987,7 +141987,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Paul Guilhaume",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142000,7 +142000,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Ed Lachman",
   "nome_do_filme": "Maria",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142013,7 +142013,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Jarin Blaschke",
   "nome_do_filme": "Nosferatu",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142026,7 +142026,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Paul Tazewell",
   "nome_do_filme": "Wicked",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142039,7 +142039,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Arianne Phillips",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142052,7 +142052,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Lisy Christl",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142065,7 +142065,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Janty Yates and Dave Crossman",
   "nome_do_filme": "Gladiator II",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142078,7 +142078,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Linda Muir",
   "nome_do_filme": "Nosferatu",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142091,7 +142091,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Sean Baker",
   "nome_do_filme": "Anora",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142104,7 +142104,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Brady Corbet",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142117,7 +142117,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "James Mangold",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142130,7 +142130,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Jacques Audiard",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142143,7 +142143,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Coralie Fargeat",
   "nome_do_filme": "The Substance",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142156,7 +142156,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Basel Adra, Rachel Szor, Hamdan Ballal and Yuval Abraham",
   "nome_do_filme": "No Other Land",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142169,7 +142169,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Shiori Ito, Eric Nyari and Hanna Aqvilin",
   "nome_do_filme": "Black Box Diaries",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142182,7 +142182,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Brendan Bellomo, Slava Leontyev, Aniela Sidorska and Paula DuPre' Pesmen",
   "nome_do_filme": "Porcelain War",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142195,7 +142195,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Johan Grimonprez, Daan Milius and Rémi Grellety",
   "nome_do_filme": "Soundtrack to a Coup d'Etat",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142208,7 +142208,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Julian Brave NoiseCat, Emily Kassie and Kellen Quinn",
   "nome_do_filme": "Sugarcane",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142221,7 +142221,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Molly O'Brien and Lisa Remington",
   "nome_do_filme": "The Only Girl in the Orchestra",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142234,7 +142234,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Kim A. Snyder and Janique L. Robillard",
   "nome_do_filme": "Death by Numbers",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142247,7 +142247,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Smriti Mundhra and Maya Gnyp",
   "nome_do_filme": "I Am Ready, Warden",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142260,7 +142260,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Bill Morrison and Jamie Kalven",
   "nome_do_filme": "Incident",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142273,7 +142273,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Ema Ryan Yamazaki and Eric Nyari",
   "nome_do_filme": "Instruments of a Beating Heart",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142286,7 +142286,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Sean Baker",
   "nome_do_filme": "Anora",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142299,7 +142299,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "David Jancso",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142312,7 +142312,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Nick Emerson",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142325,7 +142325,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Juliette Welfling",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142338,7 +142338,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Myron Kerstein",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142351,7 +142351,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "I'm Still Here",
   "nome_do_filme": "I'm Still Here",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142364,7 +142364,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "The Girl with the Needle",
   "nome_do_filme": "The Girl with the Needle",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142377,7 +142377,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "Emilia Pérez",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142390,7 +142390,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "The Seed of the Sacred Fig",
   "nome_do_filme": "The Seed of the Sacred Fig",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142403,7 +142403,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "Flow",
   "nome_do_filme": "Flow",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142416,7 +142416,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Pierre-Olivier Persin, Stéphanie Guillon and Marilyne Scarselli",
   "nome_do_filme": "The Substance",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142429,7 +142429,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Mike Marino, David Presto and Crystal Jurado",
   "nome_do_filme": "A Different Man",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142442,7 +142442,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Julia Floch Carbonel, Emmanuel Janvier and Jean-Christophe Spadaccini",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142455,7 +142455,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "David White, Traci Loader and Suzanne Stokes-Munton",
   "nome_do_filme": "Nosferatu",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142468,7 +142468,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Frances Hannon, Laura Blount and Sarah Nuth",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142481,7 +142481,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Daniel Blumberg",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142494,7 +142494,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Volker Bertelmann",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142507,7 +142507,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Clément Ducol and Camille",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142520,7 +142520,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "John Powell and Stephen Schwartz",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142533,7 +142533,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Kris Bowers",
   "nome_do_filme": "The Wild Robot",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142546,7 +142546,7 @@
   "categoria": "MUSIC (ORIGINAL SONG)",
   "nome_do_indicado": "Clément Ducol and Camille",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142559,7 +142559,7 @@
   "categoria": "MUSIC (ORIGINAL SONG)",
   "nome_do_indicado": "Diane Warren",
   "nome_do_filme": "The Six Triple Eight",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142572,7 +142572,7 @@
   "categoria": "MUSIC (ORIGINAL SONG)",
   "nome_do_indicado": "Abraham Alexander and Adrian Quesada",
   "nome_do_filme": "Sing Sing",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142585,7 +142585,7 @@
   "categoria": "MUSIC (ORIGINAL SONG)",
   "nome_do_indicado": "Camille and Clément Ducol",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142598,7 +142598,7 @@
   "categoria": "MUSIC (ORIGINAL SONG)",
   "nome_do_indicado": "Elton John, Brandi Carlile, Andrew Watt and Bernie Taupin",
   "nome_do_filme": "Elton John: Never Too Late",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142611,7 +142611,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Alex Coco, Samantha Quan and Sean Baker",
   "nome_do_filme": "Anora",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142624,7 +142624,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Nick Gordon, Brian Young, Andrew Morrison, D.J. Gugenheim and Brady Corbet",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142637,7 +142637,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Fred Berger, James Mangold and Alex Heineman",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142650,7 +142650,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Tessa Ross, Juliette Howell and Michael A. Jackman",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142663,7 +142663,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Mary Parent, Cale Boyter, Tanya Lapointe and Denis Villeneuve",
   "nome_do_filme": "Dune: Part Two",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142676,7 +142676,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Pascal Caucheteux and Jacques Audiard",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142689,7 +142689,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Maria Carlota Bruno and Rodrigo Teixeira",
   "nome_do_filme": "I'm Still Here",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142702,7 +142702,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Dede Gardner, Jeremy Kleiner and Joslyn Barnes",
   "nome_do_filme": "Nickel Boys",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142715,7 +142715,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Coralie Fargeat and Tim Bevan & Eric Fellner",
   "nome_do_filme": "The Substance",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142728,7 +142728,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Marc Platt",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142741,7 +142741,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Nathan Crowley and Lee Sandales",
   "nome_do_filme": "Wicked",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142754,7 +142754,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Judy Becker and Patricia Cuccia",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142767,7 +142767,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Suzie Davies and Cynthia Sleiter",
   "nome_do_filme": "Conclave",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142780,7 +142780,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Patrice Vermette and Shane Vieau",
   "nome_do_filme": "Dune: Part Two",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142793,7 +142793,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Craig Lathrop and Beatrice Brentnerová",
   "nome_do_filme": "Nosferatu",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142806,7 +142806,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Victoria Warmerdam and Trent",
   "nome_do_filme": "I'm Not a Robot",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142819,7 +142819,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Sam Cutler-Kreutz and David Cutler-Kreutz",
   "nome_do_filme": "A Lien",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142832,7 +142832,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Adam J. Graves and Suchitra Mattai",
   "nome_do_filme": "Anuja",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142845,7 +142845,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Cindy Lee and Darwin Shaw",
   "nome_do_filme": "The Last Ranger",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142858,7 +142858,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Nebojša Slijepčević and Danijel Pek",
   "nome_do_filme": "The Man Who Could Not Remain Silent",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142871,7 +142871,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Gareth John, Richard King, Ron Bartlett and Doug Hemphill",
   "nome_do_filme": "Dune: Part Two",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142884,7 +142884,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Tod A. Maitland, Donald Sylvester, Ted Caplan, Paul Massey and David Giammarco",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142897,7 +142897,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Erwan Kerzanet, Aymeric Devoldère, Maxence Dussère, Cyril Holtz and Niels Barletta",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142910,7 +142910,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Simon Hayes, Nancy Nugent Title, Jack Dolman, Andy Nelson and John Marquis",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142923,7 +142923,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Randy Thom, Brian Chumney, Gary A. Rizzo and Leff Lefferts",
   "nome_do_filme": "The Wild Robot",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142936,7 +142936,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Paul Lambert, Stephen James, Rhys Salcombe and Gerd Nefzer",
   "nome_do_filme": "Dune: Part Two",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -142949,7 +142949,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Eric Barba, Nelson Sepulveda-Fauser, Daniel Macarin and Shane Mahan",
   "nome_do_filme": "Alien: Romulus",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142962,7 +142962,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Luke Millar, David Clayton, Keith Herft and Peter Stubbs",
   "nome_do_filme": "Better Man",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142975,7 +142975,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Erik Winquist, Stephen Unterfranz, Paul Story and Rodney Burke",
   "nome_do_filme": "Kingdom of the Planet of the Apes",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -142988,7 +142988,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Pablo Helman, Jonathan Fawkner, David Shirk and Paul Corbould",
   "nome_do_filme": "Wicked",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143001,7 +143001,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Peter Straughan",
   "nome_do_filme": "Conclave",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143014,7 +143014,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "James Mangold and Jay Cocks",
   "nome_do_filme": "A Complete Unknown",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143027,7 +143027,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Jacques Audiard",
   "nome_do_filme": "Emilia Pérez",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143040,7 +143040,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "RaMell Ross and Joslyn Barnes",
   "nome_do_filme": "Nickel Boys",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143053,7 +143053,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Clint Bentley, Greg Kwedar, Clarence Maclin and John 'Divine G' Whitfield",
   "nome_do_filme": "Sing Sing",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143066,7 +143066,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Sean Baker",
   "nome_do_filme": "Anora",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143079,7 +143079,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Brady Corbet and Mona Fastvold",
   "nome_do_filme": "The Brutalist",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143092,7 +143092,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Jesse Eisenberg",
   "nome_do_filme": "A Real Pain",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143105,7 +143105,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Moritz Binder, Tim Fehlbaum and Alex David",
   "nome_do_filme": "September 5",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143118,7 +143118,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Coralie Fargeat",
   "nome_do_filme": "The Substance",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143131,7 +143131,7 @@
   "categoria": "CASTING",
   "nome_do_indicado": "Cassandra Kulukundis",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143144,7 +143144,7 @@
   "categoria": "CASTING",
   "nome_do_indicado": "Nina Gold",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143157,7 +143157,7 @@
   "categoria": "CASTING",
   "nome_do_indicado": "Jennifer Venditti",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143170,7 +143170,7 @@
   "categoria": "CASTING",
   "nome_do_indicado": "Gabriel Domingues",
   "nome_do_filme": "The Secret Agent",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143183,7 +143183,7 @@
   "categoria": "CASTING",
   "nome_do_indicado": "Francine Maisler",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143196,7 +143196,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Autumn Durald Arkapaw",
   "nome_do_filme": "Sinners",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143209,7 +143209,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Dan Laustsen",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143222,7 +143222,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Darius Khondji",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143235,7 +143235,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Michael Bauman",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143248,7 +143248,7 @@
   "categoria": "CINEMATOGRAPHY",
   "nome_do_indicado": "Adolpho Veloso",
   "nome_do_filme": "Train Dreams",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143261,7 +143261,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Kate Hawley",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143274,7 +143274,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Deborah L. Scott",
   "nome_do_filme": "Avatar: Fire and Ash",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143287,7 +143287,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Malgosia Turzanska",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143300,7 +143300,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Miyako Bellizzi",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143313,7 +143313,7 @@
   "categoria": "COSTUME DESIGN",
   "nome_do_indicado": "Ruth E. Carter",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143326,7 +143326,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Paul Thomas Anderson",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143339,7 +143339,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Chloé Zhao",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143352,7 +143352,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Josh Safdie",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143365,7 +143365,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Joachim Trier",
   "nome_do_filme": "Sentimental Value",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143378,7 +143378,7 @@
   "categoria": "DIRECTING",
   "nome_do_indicado": "Ryan Coogler",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143391,7 +143391,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "David Borenstein, Pavel Talankin, Helle Faber and Alžběta Karásková",
   "nome_do_filme": "Mr. Nobody against Putin",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143404,7 +143404,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Andrew Jarecki and Charlotte Kaufman",
   "nome_do_filme": "The Alabama Solution",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143417,7 +143417,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Ryan White, Jessica Hargrave, Tig Notaro and Stef Willen",
   "nome_do_filme": "Come See Me in the Good Light",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143430,7 +143430,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Sara Khaki and Mohammadreza Eyni",
   "nome_do_filme": "Cutting through Rocks",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143443,7 +143443,7 @@
   "categoria": "DOCUMENTARY FEATURE FILM",
   "nome_do_indicado": "Geeta Gandbhir, Alisa Payne, Nikon Kwantu and Sam Bisbee",
   "nome_do_filme": "The Perfect Neighbor",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143456,7 +143456,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Joshua Seftel and Conall Jones",
   "nome_do_filme": "All the Empty Rooms",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143469,7 +143469,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Craig Renaud and Juan Arredondo",
   "nome_do_filme": "Armed Only with a Camera: The Life and Death of Brent Renaud",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143482,7 +143482,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Hilla Medalia and Sheila Nevins",
   "nome_do_filme": "Children No More: \"Were and Are Gone\"",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143495,7 +143495,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Christalyn Hampton and Geeta Gandbhir",
   "nome_do_filme": "The Devil Is Busy",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143508,7 +143508,7 @@
   "categoria": "DOCUMENTARY SHORT FILM",
   "nome_do_indicado": "Alison McAlpine",
   "nome_do_filme": "Perfectly a Strangeness",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143521,7 +143521,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Andy Jurgensen",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143534,7 +143534,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Stephen Mirrione",
   "nome_do_filme": "F1",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143547,7 +143547,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Ronald Bronstein and Josh Safdie",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143560,7 +143560,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Olivier Bugge Coutté",
   "nome_do_filme": "Sentimental Value",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143573,7 +143573,7 @@
   "categoria": "FILM EDITING",
   "nome_do_indicado": "Michael P. Shawver",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143586,7 +143586,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "Norway",
   "nome_do_filme": "Sentimental Value",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143599,7 +143599,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "Brazil",
   "nome_do_filme": "The Secret Agent",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143612,7 +143612,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "France",
   "nome_do_filme": "It Was Just an Accident",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143625,7 +143625,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "Spain",
   "nome_do_filme": "Sirāt",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143638,7 +143638,7 @@
   "categoria": "INTERNATIONAL FEATURE FILM",
   "nome_do_indicado": "Tunisia",
   "nome_do_filme": "The Voice of Hind Rajab",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143651,7 +143651,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Sam A. Davis and Jack Piatt",
   "nome_do_filme": "The Singers",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143664,7 +143664,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Alexandre Singh and Natalie Musteata",
   "nome_do_filme": "Two People Exchanging Saliva",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143677,7 +143677,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Meyer Levinson-Blount and Oron Caspi",
   "nome_do_filme": "Butcher's Stain",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143690,7 +143690,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Lee Knight and James Dean",
   "nome_do_filme": "A Friend of Dorothy",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143703,7 +143703,7 @@
   "categoria": "LIVE ACTION SHORT FILM",
   "nome_do_indicado": "Julia Aks and Steve Pinder",
   "nome_do_filme": "Jane Austen's Period Drama",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143716,7 +143716,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Mike Hill, Jordan Samuel and Cliona Furey",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143729,7 +143729,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Kyoko Toyokawa, Naomi Hibino and Tadashi Nishimatsu",
   "nome_do_filme": "Kokuho",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143742,7 +143742,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Ken Diaz, Mike Fontaine and Shunika Terry",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143755,7 +143755,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Kazu Hiro, Glen Griffin and Bjoern Rehbein",
   "nome_do_filme": "The Smashing Machine",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143768,7 +143768,7 @@
   "categoria": "MAKEUP AND HAIRSTYLING",
   "nome_do_indicado": "Thomas Foldberg and Anne Cathrine Sauerberg",
   "nome_do_filme": "The Ugly Stepsister",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143781,7 +143781,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Ludwig Goransson",
   "nome_do_filme": "Sinners",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143794,7 +143794,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Jerskin Fendrix",
   "nome_do_filme": "Bugonia",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143807,7 +143807,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Alexandre Desplat",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143820,7 +143820,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Max Richter",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143833,7 +143833,7 @@
   "categoria": "MUSIC (ORIGINAL SCORE)",
   "nome_do_indicado": "Jonny Greenwood",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143847,7 +143847,7 @@
   "nome_do_indicado": "EJAE, Mark Sonnenblick, Joong Gyu Kwak, Yu Han Lee, Hee Dong Nam, Jeong Hoon Seo and Teddy Park",
   "nome_do_filme": "KPop Demon Hunters",
   "nome_da_musica": "Golden",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143861,7 +143861,7 @@
   "nome_do_indicado": "Diane Warren",
   "nome_do_filme": "Diane Warren: Relentless",
   "nome_da_musica": "Dear Me",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143875,7 +143875,7 @@
   "nome_do_indicado": "Raphael Saadiq and Ludwig Goransson",
   "nome_do_filme": "Sinners",
   "nome_da_musica": "I Lied To You",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143889,7 +143889,7 @@
   "nome_do_indicado": "Nicholas Pike",
   "nome_do_filme": "Viva Verdi!",
   "nome_da_musica": "Sweet Dreams Of Joy",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143903,7 +143903,7 @@
   "nome_do_indicado": "Nick Cave and Bryce Dessner",
   "nome_do_filme": "Train Dreams",
   "nome_da_musica": "Train Dreams",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143916,7 +143916,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Adam Somner, Sara Murphy and Paul Thomas Anderson",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -143929,7 +143929,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Ed Guiney, Andrew Lowe, Yorgos Lanthimos, Emma Stone and Lars Knudsen",
   "nome_do_filme": "Bugonia",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143942,7 +143942,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Chad Oman, Brad Pitt, Dede Gardner, Jeremy Kleiner, Joseph Kosinski and Jerry Bruckheimer",
   "nome_do_filme": "F1",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143955,7 +143955,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Guillermo del Toro, J. Miles Dale and Scott Stuber",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143968,7 +143968,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Liza Marshall, Pippa Harris, Nicolas Gonda, Steven Spielberg and Sam Mendes",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143981,7 +143981,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Eli Bush, Ronald Bronstein, Josh Safdie, Anthony Katagas and Timothée Chalamet",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -143994,7 +143994,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Emilie Lesclaux",
   "nome_do_filme": "The Secret Agent",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144007,7 +144007,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Maria Ekerhovd and Andrea Berentsen Ottmar",
   "nome_do_filme": "Sentimental Value",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144020,7 +144020,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Zinzi Coogler, Sev Ohanian and Ryan Coogler",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144033,7 +144033,7 @@
   "categoria": "BEST PICTURE",
   "nome_do_indicado": "Marissa McMahon, Teddy Schwarzman, Will Janowitz, Ashley Schlaifer and Michael Heimler",
   "nome_do_filme": "Train Dreams",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144046,7 +144046,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Tamara Deverell (Production Design); Shane Vieau (Set Decoration)",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -144059,7 +144059,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Fiona Crombie (Production Design); Alice Felton (Set Decoration)",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144072,7 +144072,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Jack Fisk (Production Design); Adam Willis (Set Decoration)",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144085,7 +144085,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Florencia Martin (Production Design); Anthony Carlino (Set Decoration)",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144098,7 +144098,7 @@
   "categoria": "PRODUCTION DESIGN",
   "nome_do_indicado": "Hannah Beachler (Production Design); Monique Champagne (Set Decoration)",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144111,7 +144111,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Gareth John, Al Nelson, Gwendolyn Yates Whittle, Gary A. Rizzo and Juan Peralta",
   "nome_do_filme": "F1",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -144124,7 +144124,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Greg Chapman, Nathan Robitaille, Nelson Ferreira, Christian Cooke and Brad Zoern",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144137,7 +144137,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "José Antonio García, Christopher Scarabosio and Tony Villaflor",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144150,7 +144150,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Chris Welcker, Benjamin A. Burtt, Felipe Pacheco, Brandon Proctor and Steve Boeddeker",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144163,7 +144163,7 @@
   "categoria": "SOUND",
   "nome_do_indicado": "Amanda Villavieja, Laia Casanovas and Yasmina Praderas",
   "nome_do_filme": "Sirāt",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144176,7 +144176,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett",
   "nome_do_filme": "Avatar: Fire and Ash",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -144189,7 +144189,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Ryan Tudhope, Nicolas Chevallier, Robert Harrington and Keith Dawson",
   "nome_do_filme": "F1",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144202,7 +144202,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "David Vickery, Stephen Aplin, Charmaine Chan and Neil Corbould",
   "nome_do_filme": "Jurassic World Rebirth",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144215,7 +144215,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Charlie Noble, David Zaretti, Russell Bowen and Brandon K. McLaughlin",
   "nome_do_filme": "The Lost Bus",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144228,7 +144228,7 @@
   "categoria": "VISUAL EFFECTS",
   "nome_do_indicado": "Michael Ralla, Espen Nordahl, Guido Wolter and Donnie Dean",
   "nome_do_filme": "Sinners",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144241,7 +144241,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Paul Thomas Anderson",
   "nome_do_filme": "One Battle after Another",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -144254,7 +144254,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Will Tracy",
   "nome_do_filme": "Bugonia",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144267,7 +144267,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Guillermo del Toro",
   "nome_do_filme": "Frankenstein",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144280,7 +144280,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Chloé Zhao and Maggie O'Farrell",
   "nome_do_filme": "Hamnet",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144293,7 +144293,7 @@
   "categoria": "WRITING (ADAPTED SCREENPLAY)",
   "nome_do_indicado": "Clint Bentley and Greg Kwedar",
   "nome_do_filme": "Train Dreams",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144306,7 +144306,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Ryan Coogler",
   "nome_do_filme": "Sinners",
-  "vencedor": "true"
+  "vencedor": true
 },
 {
   "_id": {
@@ -144319,7 +144319,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Robert Kaplow",
   "nome_do_filme": "Blue Moon",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144332,7 +144332,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Jafar Panahi; Nader Saïvar, Shadmehr Rastin, Mehdi Mahmoudian",
   "nome_do_filme": "It Was Just an Accident",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144345,7 +144345,7 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Ronald Bronstein and Josh Safdie",
   "nome_do_filme": "Marty Supreme",
-  "vencedor": "false"
+  "vencedor": false
 },
 {
   "_id": {
@@ -144358,5 +144358,5 @@
   "categoria": "WRITING (ORIGINAL SCREENPLAY)",
   "nome_do_indicado": "Eskil Vogt and Joachim Trier",
   "nome_do_filme": "Sentimental Value",
-  "vencedor": "false"
+  "vencedor": false
 }]
